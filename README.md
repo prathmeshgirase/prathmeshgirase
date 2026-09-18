@@ -40,15 +40,6 @@ A full-stack web app for tracking job applications with **resume-to-job-descript
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=prathmeshgirase&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshgirase&layout=compact&theme=default&hide_border=true" />
-
-</div>
-
 ## Connect
 
 <div align="center">
