@@ -14,7 +14,8 @@
 
 ## About
 
-Java and Spring Boot developer focused on building production-shaped backend systems — not just tutorial CRUD apps. Currently deep in a structured, self-directed study plan covering core Java through Spring Boot 3.x, applied directly to a real portfolio project rather than isolated exercises. Actively looking for software development roles.
+I’m Prathmesh, a software developer based in Pune. My work includes Java and Spring Boot backend development and React and React Native interfaces.
+My projects include EONE, an independently built classroom management application using Spring Boot, PostgreSQL, and Flutter. During my internship at CGPI Software, I also contributed to KitchenaryKart and Hotelic Essentials.
 
 ## Currently Building
 
